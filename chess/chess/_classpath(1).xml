@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="checking"/>
+	<classpathentry kind="src" path="chessboard"/>
+	<classpathentry kind="src" path="convert"/>
+	<classpathentry kind="src" path="speech"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tracking"/>
+	<classpathentry kind="src" path="validation"/>
+	<classpathentry kind="lib" path="sphinx4-core-5prealpha-20160628.232526-10.jar"/>
+	<classpathentry kind="lib" path="sphinx4-data-5prealpha-20160628.232535-10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
